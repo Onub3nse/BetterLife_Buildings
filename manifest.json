@@ -1,0 +1,12 @@
+﻿{
+	"id": "BetterLife_Buildings",
+	"version": "0.6.0",
+	"primary_dlls": [ "0Harmony.dll", "BetterLife_Buildings.dll" ],
+	"non_locking_dll_load": true,
+	"can_add_to_saved_game": true,
+	"authors": "MaViTTo",
+	"description_short": "New interactive buildings.",
+	"description_long": "Interactive buildings, like McDonalds, etc.",
+	"display_name": "BetterLife: Buildings"
+
+}
